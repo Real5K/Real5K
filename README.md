@@ -9,6 +9,7 @@
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐3.6k | Improved **PR risk analysis** by separating test and production impact | [![PR](https://img.shields.io/badge/%23739-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/739) |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐3.6k | Added first-class **Kimi LLM provider** support | [![PR](https://img.shields.io/badge/%23824-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/824) |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐3.6k | Fixed a **CFG** bug so dataflow correctly follows control flow inside `with` statements | [![PR](https://img.shields.io/badge/%23836-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/836) |
+| [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐3.6k | Improved empty-state copy for files with **no documentation** | [![PR](https://img.shields.io/badge/%23822-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/822) |
 
 </div>
 
