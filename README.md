@@ -1,9 +1,3 @@
-<a href="https://cloud.layer5.io/user/4bc449ce-5925-41f2-b3ee-96326e45b32f?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
-       width="100"
-       alt="Meshery First Design Badge" />
-</a>
-
 ## 🌱 Open Source Contributions
 
 <div align="center">
