@@ -1,0 +1,25 @@
+<svg width="650" height="70" viewBox="0 0 650 70" xmlns="http://www.w3.org/2000/svg">
+  <rect width="650" height="70" fill="#0d1117"/>
+
+  <text
+    x="325"
+    y="27"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="18"
+    font-weight="500"
+    fill="#8B949E">
+    Building &amp; Contributing in Open Source
+  </text>
+
+  <text
+    x="325"
+    y="57"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="18"
+    font-weight="500"
+    fill="#8B949E">
+    2 Open Source Projects • 9 Merged PRs | LLM Integrations • Static Analysis • Developer Tooling
+  </text>
+</svg>
