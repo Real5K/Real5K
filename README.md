@@ -8,7 +8,7 @@
 | <img src="https://github.com/repowise-dev.png" width="28" height="28" align="middle"> &nbsp; [**repowise**](https://github.com/repowise-dev/repowise) | ⭐ 6.3k | LLM integrations, static analysis & developer tooling |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,git,github,docker,pytorch&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,ts,pytorch,aws,dynamodb,github&perline=6" />
 </p>
 
 <p align="center">
