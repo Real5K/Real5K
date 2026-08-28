@@ -2,6 +2,12 @@
 
 <div align="center">
 
+| Project | Stars | Contribution Area |
+|:-------:|:-----:|:--------------:|
+| <img src="https://github.com/mem0ai.png" width="28" height="28" align="middle"> &nbsp; [**mem0**](https://github.com/mem0ai/mem0) | ⭐ 64.3k | LLM integrations & SDK development |
+| <img src="https://github.com/repowise-dev.png" width="28" height="28" align="middle"> &nbsp; [**repowise**](https://github.com/repowise-dev/repowise) | ⭐ 6.3k | LLM integrations, static analysis & developer tooling |
+
+<!--
 | Project | Contribution | Status |
 |---------|-------------|--------|
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐61.5k | Added **Sarvam LLM provider** to the TypeScript OSS SDK | [![PR](https://img.shields.io/badge/%236130-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/mem0ai/mem0/pull/6130) |
@@ -11,6 +17,7 @@
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐4.2k | Fixed bug where **`get_health`** failed for workspace repositories with **custom aliases** | [![PR](https://img.shields.io/badge/%23865-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/865) |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐4.2k | Fixed a bug where **deep-link focus** stayed out of sync with the selected file | [![PR](https://img.shields.io/badge/%231088-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/1088) |
 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) ⭐4.2k | Improved empty-state copy for files with **no documentation** | [![PR](https://img.shields.io/badge/%23822-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/repowise-dev/repowise/pull/822) |
+-->
 
 </div>
 
