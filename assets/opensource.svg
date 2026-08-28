@@ -1,8 +1,8 @@
-<svg width="650" height="70" viewBox="0 0 650 70" xmlns="http://www.w3.org/2000/svg">
-  <rect width="650" height="70" fill="#0d1117"/>
+<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="70" fill="#0d1117"/>
 
   <text
-    x="325"
+    x="450"
     y="27"
     text-anchor="middle"
     font-family="Fira Code, monospace"
@@ -13,9 +13,11 @@
   </text>
 
   <text
-    x="325"
+    x="450"
     y="57"
     text-anchor="middle"
+    textLength="850"
+    lengthAdjust="spacingAndGlyphs"
     font-family="Fira Code, monospace"
     font-size="18"
     font-weight="500"
