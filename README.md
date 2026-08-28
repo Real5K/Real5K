@@ -7,6 +7,14 @@
 | <img src="https://github.com/mem0ai.png" width="28" height="28" align="middle"> &nbsp; [**mem0**](https://github.com/mem0ai/mem0) | ⭐ 64.3k | LLM integrations & SDK development |
 | <img src="https://github.com/repowise-dev.png" width="28" height="28" align="middle"> &nbsp; [**repowise**](https://github.com/repowise-dev/repowise) | ⭐ 6.3k | LLM integrations, static analysis & developer tooling |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,git,github,docker,pytorch&perline=6" />
+</p>
+
+<p align="center">
+  <img src="./assets/opensource.svg" alt="Open source contributions">
+</p>
+
 <!--
 | Project | Contribution | Status |
 |---------|-------------|--------|
